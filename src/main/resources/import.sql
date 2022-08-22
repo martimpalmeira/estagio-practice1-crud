@@ -6,4 +6,3 @@ INSERT INTO tb_person (name,birth_date,cpf,adress,phone_number) VALUES ('Beatriz
 INSERT INTO tb_person (name,birth_date,cpf,adress,phone_number) VALUES ('Felipe Santos', TIMESTAMP WITH TIME ZONE '1998-11-05T10:00:00Z', '072.779.685-27', 'Rua K, bairro L, número 35', '(15)98129-0365')
 
 
- 

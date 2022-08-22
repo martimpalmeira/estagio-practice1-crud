@@ -3,8 +3,6 @@ package com.crud.practice.dto;
 import java.io.Serializable;
 import java.time.Instant;
 
-import org.springframework.beans.factory.annotation.Autowired;
-
 import com.crud.practice.entities.Person;
 
 import lombok.AllArgsConstructor;
