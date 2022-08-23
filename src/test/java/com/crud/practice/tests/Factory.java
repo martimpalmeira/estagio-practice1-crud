@@ -14,6 +14,7 @@ public class Factory {
 		person.setPhoneNumber("75 98129-0360");
 		person.setCpf("086.395.593-32");
 		person.setBirthDate(Instant.parse("1999-08-01T10:09:20Z"));
+		person.setAdress("Rua A, bairro B, número 30");
 		return person;
 	}
 	
@@ -23,6 +24,7 @@ public class Factory {
 		person.setPhoneNumber("75 98129-0360");
 		person.setCpf("086.395.593-32");
 		person.setBirthDate(Instant.parse("1999-08-01T10:09:20Z"));
+		person.setAdress("Rua A, bairro B, número 30");
 		return person;
 	}
 
